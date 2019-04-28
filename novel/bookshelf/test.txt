@@ -1443,7 +1443,7 @@
   },
   {
     "bookSourceGroup": "18禁",
-    "bookSourceName": "龙腾小说网🔞                       longteng32.com",
+    "bookSourceName": "龙腾小说网🔞                                                                                                     longteng32.com",
     "bookSourceUrl": "http://www.longteng32.com",
     "enable": true,
     "httpUserAgent": "",
@@ -2054,7 +2054,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "经典小说网                       jdxs5200.net",
+    "bookSourceName": "经典小说网                                                                                                     jdxs5200.net",
     "bookSourceUrl": "http://www.jdxs5200.net",
     "enable": true,
     "httpUserAgent": "",
@@ -2267,7 +2267,7 @@
   },
   {
     "bookSourceGroup": "普通; 发现",
-    "bookSourceName": "一书阁                       yishuge.info",
+    "bookSourceName": "一书阁                                                                                                     yishuge.info",
     "bookSourceUrl": "http://www.yishuge.info",
     "enable": true,
     "httpUserAgent": "",
@@ -2297,7 +2297,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "37小说                       37xs.com",
+    "bookSourceName": "37小说                                                                                                     37xs.com",
     "bookSourceUrl": "https://www.37xs.com",
     "enable": true,
     "httpUserAgent": "",
@@ -2387,7 +2387,7 @@
   },
   {
     "bookSourceGroup": "BT",
-    "bookSourceName": "BT天堂                       btpian.com",
+    "bookSourceName": "BT天堂                                                                                                     btpian.com",
     "bookSourceUrl": "https://www.btpian.com",
     "enable": true,
     "httpUserAgent": "",
@@ -2549,7 +2549,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "藏书阁                       baikg.com",
+    "bookSourceName": "藏书阁                                                                                                     baikg.com",
     "bookSourceUrl": "http://www.baikg.com",
     "enable": true,
     "httpUserAgent": "",
@@ -2579,7 +2579,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "有意思书院                       heihei66.com",
+    "bookSourceName": "有意思书院                                                                                                     heihei66.com",
     "bookSourceUrl": "https://www.heihei66.com",
     "enable": true,
     "httpUserAgent": "",
@@ -2707,7 +2707,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "玄葫堂                       xuanhutang.com",
+    "bookSourceName": "玄葫堂                                                                                                     xuanhutang.com",
     "bookSourceUrl": "https://www.xuanhutang.com",
     "enable": true,
     "httpUserAgent": "",
@@ -2831,7 +2831,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔趣阁                       biquge5.com",
+    "bookSourceName": "笔趣阁                                                                                                     biquge5.com",
     "bookSourceUrl": "https://www.biquge5.com",
     "enable": true,
     "httpUserAgent": "",
@@ -3118,7 +3118,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "乐文小说                       lewenn.com",
+    "bookSourceName": "乐文小说                                                                                                     lewenn.com",
     "bookSourceUrl": "https://www.lewenn.com",
     "enable": true,
     "httpUserAgent": "",
@@ -3318,7 +3318,7 @@
     "httpUserAgent": "",
     "lastUpdateTime": 0,
     "ruleBookAuthor": "class.Introduct_Sub@class.pic@class.pic_zi.1@tag.dd@text",
-    "ruleBookContent": "$function getImgList(){  \n    var p = /z_img='\\[(.*)\\]'/\n    var strs = html.match(p)[1].split(',');\n    if(strs != null){\n        var piclist = new Array([strs.length]);\n        for (var i = 0; i < strs.length; i++) {\n            var a = /(\\\\\\/([-A-Za-z0-9+&@/%?=                       _|!:,.;]+))/g\n            var c = strs[i].match(/\\\"(.*)\\\"/)[1].match(a)\n            var myurl = \"https:/\"\n            c.forEach(function(value, index, array) {\n                if(value.indexOf('img001.yayxcc.com') > -1) {\n                    value = value.replace('img001.yayxcc.com', 'res.comic123.net');\n                }\n                myurl += value.slice(1)\n            });\n            piclist[i] = myurl;\n        }\n        return piclist;\n    } else {\n        return null;\n    }\n};",
+    "ruleBookContent": "$function getImgList(){  \n    var p = /z_img='\\[(.*)\\]'/\n    var strs = html.match(p)[1].split(',');\n    if(strs != null){\n        var piclist = new Array([strs.length]);\n        for (var i = 0; i < strs.length; i++) {\n            var a = /(\\\\\\/([-A-Za-z0-9+&@/%?=                                                                                                     _|!:,.;]+))/g\n            var c = strs[i].match(/\\\"(.*)\\\"/)[1].match(a)\n            var myurl = \"https:/\"\n            c.forEach(function(value, index, array) {\n                if(value.indexOf('img001.yayxcc.com') > -1) {\n                    value = value.replace('img001.yayxcc.com', 'res.comic123.net');\n                }\n                myurl += value.slice(1)\n            });\n            piclist[i] = myurl;\n        }\n        return piclist;\n    } else {\n        return null;\n    }\n};",
     "ruleBookKind": "class.Introduct_Sub@class.pic@class.pic_zi.2@tag.dd@text",
     "ruleBookLastChapter": "",
     "ruleBookName": "",
@@ -3511,7 +3511,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "乐文小说                       5lewen.com",
+    "bookSourceName": "乐文小说                                                                                                     5lewen.com",
     "bookSourceUrl": "http://www.5lewen.com",
     "enable": true,
     "httpUserAgent": "",
@@ -3574,7 +3574,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "大家读书院                       dajiadu.net",
+    "bookSourceName": "大家读书院                                                                                                     dajiadu.net",
     "bookSourceUrl": "https://www.dajiadu.net",
     "enable": true,
     "httpUserAgent": "",
@@ -3637,7 +3637,7 @@
   },
   {
     "bookSourceGroup": "优选; 发现",
-    "bookSourceName": "2K小说                       fpzw.com",
+    "bookSourceName": "2K小说                                                                                                     fpzw.com",
     "bookSourceUrl": "https://www.fpzw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -3667,7 +3667,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "番茄小说                       fqxs.org",
+    "bookSourceName": "番茄小说                                                                                                     fqxs.org",
     "bookSourceUrl": "http://www.fqxs.org",
     "enable": true,
     "httpUserAgent": "",
@@ -3697,7 +3697,7 @@
   },
   {
     "bookSourceGroup": "18禁",
-    "bookSourceName": "你懂得(18)                       120w.info",
+    "bookSourceName": "你懂得(18)                                                                                                     120w.info",
     "bookSourceUrl": "http://www.120w.info",
     "enable": true,
     "httpUserAgent": "",
@@ -3727,7 +3727,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔趣阁                       biquge5200.cc",
+    "bookSourceName": "笔趣阁                                                                                                     biquge5200.cc",
     "bookSourceUrl": "https://www.biquge5200.cc",
     "enable": true,
     "httpUserAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36",
@@ -3757,7 +3757,7 @@
   },
   {
     "bookSourceGroup": "发现",
-    "bookSourceName": "四四小说网                       s4444.cc 18",
+    "bookSourceName": "四四小说网                                                                                                     s4444.cc 18",
     "bookSourceUrl": "http://www.s4444.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -3849,7 +3849,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "三江阁                       sanjiangge.com",
+    "bookSourceName": "三江阁                                                                                                     sanjiangge.com",
     "bookSourceUrl": "https://www.sanjiangge.com",
     "enable": true,
     "httpUserAgent": "",
@@ -3878,7 +3878,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "南派三叔                       nanpaisanshu.org",
+    "bookSourceName": "南派三叔                                                                                                     nanpaisanshu.org",
     "bookSourceUrl": "https://www.nanpaisanshu.org",
     "enable": true,
     "httpUserAgent": "",
@@ -3908,7 +3908,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "荷包网                       hebaow.net",
+    "bookSourceName": "荷包网                                                                                                     hebaow.net",
     "bookSourceUrl": "http://www.hebaow.net",
     "enable": true,
     "httpUserAgent": "",
@@ -3937,7 +3937,7 @@
   },
   {
     "bookSourceGroup": "18禁",
-    "bookSourceName": "四四小说网🔞                       44xsw.net",
+    "bookSourceName": "四四小说网🔞                                                                                                     44xsw.net",
     "bookSourceUrl": "http://44xsw.net",
     "enable": true,
     "httpUserAgent": "",
@@ -3997,7 +3997,7 @@
   },
   {
     "bookSourceGroup": "18禁",
-    "bookSourceName": "一起色🔞                       s5217.com",
+    "bookSourceName": "一起色🔞                                                                                                     s5217.com",
     "bookSourceUrl": "http://www.s5217.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4026,7 +4026,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔趣阁                       zanghaihuatxt.com",
+    "bookSourceName": "笔趣阁                                                                                                     zanghaihuatxt.com",
     "bookSourceUrl": "https://www.zanghaihuatxt.com",
     "enable": true,
     "httpUserAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36",
@@ -4056,7 +4056,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "书荒阁                       shuhuangge.org",
+    "bookSourceName": "书荒阁                                                                                                     shuhuangge.org",
     "bookSourceUrl": "http://www.9cwx.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4147,7 +4147,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "沸腾文学                       feiteng.la",
+    "bookSourceName": "沸腾文学                                                                                                     feiteng.la",
     "bookSourceUrl": "http://www.feiteng.la",
     "enable": true,
     "httpUserAgent": "",
@@ -4269,7 +4269,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "59小说                       59xs.com",
+    "bookSourceName": "59小说                                                                                                     59xs.com",
     "bookSourceUrl": "http://www.59xs.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4332,7 +4332,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "顶点小说                       booktxt.net",
+    "bookSourceName": "顶点小说                                                                                                     booktxt.net",
     "bookSourceUrl": "https://www.booktxt.net",
     "enable": true,
     "httpUserAgent": "",
@@ -4362,7 +4362,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "17书屋                       17shuwu.com",
+    "bookSourceName": "17书屋                                                                                                     17shuwu.com",
     "bookSourceUrl": "http://www.17shuwu.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4395,7 +4395,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔趣阁                       biquge.info",
+    "bookSourceName": "笔趣阁                                                                                                     biquge.info",
     "bookSourceUrl": "https://www.biquge.info",
     "enable": true,
     "httpUserAgent": "",
@@ -4425,7 +4425,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "新顶点小说                       x23du.com",
+    "bookSourceName": "新顶点小说                                                                                                     x23du.com",
     "bookSourceUrl": "http://www.x23du.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4719,7 +4719,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "书荒阁                       shuhuangge.org",
+    "bookSourceName": "书荒阁                                                                                                     shuhuangge.org",
     "bookSourceUrl": "http://www.shuhuangge.org",
     "enable": true,
     "httpUserAgent": "",
@@ -4782,7 +4782,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "风雨小说                       fengyu.cc",
+    "bookSourceName": "风雨小说                                                                                                     fengyu.cc",
     "bookSourceUrl": "https://www.fengyu.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -4812,7 +4812,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔趣阁                       bequge.com",
+    "bookSourceName": "笔趣阁                                                                                                     bequge.com",
     "bookSourceUrl": "https://www.bequge.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4842,7 +4842,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "百合小说                       baihexs.com",
+    "bookSourceName": "百合小说                                                                                                     baihexs.com",
     "bookSourceUrl": "https://www.baihexs.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4872,7 +4872,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔趣阁                       biquguo.com",
+    "bookSourceName": "笔趣阁                                                                                                     biquguo.com",
     "bookSourceUrl": "https://www.biquguo.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4901,7 +4901,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "小说吧                       xiaoshuob.com",
+    "bookSourceName": "小说吧                                                                                                     xiaoshuob.com",
     "bookSourceUrl": "https://www.xiaoshuob.com",
     "enable": true,
     "httpUserAgent": "",
@@ -4964,7 +4964,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "千千小说                       qqxsw.la",
+    "bookSourceName": "千千小说                                                                                                     qqxsw.la",
     "bookSourceUrl": "https://www.qqxsw.la",
     "enable": true,
     "httpUserAgent": "",
@@ -5096,7 +5096,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "七度书屋                       7dsw.com",
+    "bookSourceName": "七度书屋                                                                                                     7dsw.com",
     "bookSourceUrl": "https://www.7dsw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -5126,7 +5126,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "笔趣阁                       biquge11.com",
+    "bookSourceName": "笔趣阁                                                                                                     biquge11.com",
     "bookSourceUrl": "https://www.biquge11.com",
     "enable": true,
     "httpUserAgent": "",
@@ -5155,7 +5155,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "钱人阁                       m.qianrenge.cc",
+    "bookSourceName": "钱人阁                                                                                                     m.qianrenge.cc",
     "bookSourceUrl": "https://m.qianrenge.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -5185,7 +5185,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "乐文小说                       lewen123.com",
+    "bookSourceName": "乐文小说                                                                                                     lewen123.com",
     "bookSourceUrl": "http://www.lewen123.com",
     "enable": true,
     "httpUserAgent": "",
@@ -5248,7 +5248,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "官术网                       biyuwu.cc",
+    "bookSourceName": "官术网                                                                                                     biyuwu.cc",
     "bookSourceUrl": "http://www.biyuwu.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -5308,7 +5308,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "都来读                       doulaidu8.cc",
+    "bookSourceName": "都来读                                                                                                     doulaidu8.cc",
     "bookSourceUrl": "http://www.doulaidu8.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -5368,7 +5368,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "教父中文                       jfzw.com",
+    "bookSourceName": "教父中文                                                                                                     jfzw.com",
     "bookSourceUrl": "https://www.jfzw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -5427,7 +5427,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "飘柔文学                       m.prwx.com",
+    "bookSourceName": "飘柔文学                                                                                                     m.prwx.com",
     "bookSourceUrl": "https://m.prwx.com",
     "enable": true,
     "httpUserAgent": "",
@@ -5584,7 +5584,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "烽火中文网                       fhxs1.com",
+    "bookSourceName": "烽火中文网                                                                                                     fhxs1.com",
     "bookSourceUrl": "http://www.fhxs1.com",
     "enable": true,
     "httpUserAgent": "",
@@ -5738,7 +5738,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "爱书吧                       2shu8.cc",
+    "bookSourceName": "爱书吧                                                                                                     2shu8.cc",
     "bookSourceUrl": "https://www.2shu8.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -5830,7 +5830,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "顶点小说                       dingdian.org",
+    "bookSourceName": "顶点小说                                                                                                     dingdian.org",
     "bookSourceUrl": "https://www.dingdian.org",
     "enable": true,
     "httpUserAgent": "",
@@ -5953,7 +5953,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "百书斋                       baishuzhai.com",
+    "bookSourceName": "百书斋                                                                                                     baishuzhai.com",
     "bookSourceUrl": "https://baishuzhai.com",
     "enable": true,
     "httpUserAgent": "",
@@ -5983,7 +5983,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "15小说网                       15xsw.net",
+    "bookSourceName": "15小说网                                                                                                     15xsw.net",
     "bookSourceUrl": "http://www.15xsw.net",
     "enable": true,
     "httpUserAgent": "",
@@ -6175,7 +6175,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "歪歪书屋                       yytxt.com",
+    "bookSourceName": "歪歪书屋                                                                                                     yytxt.com",
     "bookSourceUrl": "https://www.yytxt.com",
     "enable": true,
     "httpUserAgent": "",
@@ -6205,7 +6205,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "笔趣阁                       baquge.cc",
+    "bookSourceName": "笔趣阁                                                                                                     baquge.cc",
     "bookSourceUrl": "https://www.baquge.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -6269,7 +6269,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "雅尔文                       yawen365.com",
+    "bookSourceName": "雅尔文                                                                                                     yawen365.com",
     "bookSourceUrl": "https://www.yawen365.com",
     "enable": true,
     "httpUserAgent": "",
@@ -6362,7 +6362,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "追书网                       bimo.cc",
+    "bookSourceName": "追书网                                                                                                     bimo.cc",
     "bookSourceUrl": "https://www.bimo.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -6392,7 +6392,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "笔趣阁                       xbiquge6.com",
+    "bookSourceName": "笔趣阁                                                                                                     xbiquge6.com",
     "bookSourceUrl": "https://www.xbiquge6.com",
     "enable": true,
     "httpUserAgent": "",
@@ -6422,7 +6422,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "笔趣阁                       biduo.cc",
+    "bookSourceName": "笔趣阁                                                                                                     biduo.cc",
     "bookSourceUrl": "https://www.biduo.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -6452,7 +6452,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "风华居                       fenghuaju.cc",
+    "bookSourceName": "风华居                                                                                                     fenghuaju.cc",
     "bookSourceUrl": "http://www.fenghuaju.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -6482,7 +6482,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔下文学                       bxwx666.org",
+    "bookSourceName": "笔下文学                                                                                                     bxwx666.org",
     "bookSourceUrl": "http://www.bxwx666.org",
     "enable": true,
     "httpUserAgent": "",
@@ -6512,7 +6512,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "顶点小说                       xs222.tw",
+    "bookSourceName": "顶点小说                                                                                                     xs222.tw",
     "bookSourceUrl": "https://www.xs222.tw",
     "enable": true,
     "httpUserAgent": "",
@@ -6542,7 +6542,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "文学迷                       wenxuemi6.com",
+    "bookSourceName": "文学迷                                                                                                     wenxuemi6.com",
     "bookSourceUrl": "https://www.wenxuemi6.com",
     "enable": true,
     "httpUserAgent": "",
@@ -6605,7 +6605,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "爱小说                       ixs.cc",
+    "bookSourceName": "爱小说                                                                                                     ixs.cc",
     "bookSourceUrl": "https://www.ixs.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -6635,7 +6635,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "UPU小说网                       upuxs.com",
+    "bookSourceName": "UPU小说网                                                                                                     upuxs.com",
     "bookSourceUrl": "https://www.upuxs.com",
     "enable": true,
     "httpUserAgent": "",
@@ -6665,7 +6665,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "无弹窗小说网                       22ff.org",
+    "bookSourceName": "无弹窗小说网                                                                                                     22ff.org",
     "bookSourceUrl": "https://www.22ff.org",
     "enable": true,
     "httpUserAgent": "",
@@ -13209,7 +13209,7 @@
   },
   {
     "bookSourceGroup": "优选; 发现",
-    "bookSourceName": "杂志虫                       ab74.com",
+    "bookSourceName": "杂志虫                                                                                                     ab74.com",
     "bookSourceUrl": "https://www.ab74.com",
     "enable": true,
     "httpUserAgent": "",
@@ -13388,7 +13388,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "小说520                       book520.com",
+    "bookSourceName": "小说520                                                                                                     book520.com",
     "bookSourceUrl": "http://www.book520.com",
     "enable": true,
     "httpUserAgent": "",
@@ -13481,7 +13481,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "19楼书包网                       aishula.com",
+    "bookSourceName": "19楼书包网                                                                                                     aishula.com",
     "bookSourceUrl": "http://www.aishula.com",
     "enable": true,
     "httpUserAgent": "",
@@ -13510,7 +13510,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "千千小说                       15xs.com",
+    "bookSourceName": "千千小说                                                                                                     15xs.com",
     "bookSourceUrl": "https://www.15xs.com",
     "enable": true,
     "httpUserAgent": "",
@@ -13539,7 +13539,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "顶点小说                       x23us.cc",
+    "bookSourceName": "顶点小说                                                                                                     x23us.cc",
     "bookSourceUrl": "http://www.x23us.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -13806,7 +13806,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "书迷楼                       m.shumil.com",
+    "bookSourceName": "书迷楼                                                                                                     m.shumil.com",
     "bookSourceUrl": "http://m.shumil.com",
     "enable": true,
     "httpUserAgent": "Mozilla/5.0 (Linux; Android 8.1.0; ONEPLUS A5000 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.144 Mobile Safari/537.36",
@@ -13835,7 +13835,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "速阅阁                       suyuege.com",
+    "bookSourceName": "速阅阁                                                                                                     suyuege.com",
     "bookSourceUrl": "http://www.suyuege.com",
     "enable": true,
     "httpUserAgent": "",
@@ -14315,7 +14315,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "悟空书屋                       wksw.la",
+    "bookSourceName": "悟空书屋                                                                                                     wksw.la",
     "bookSourceUrl": "http://www.wksw.la",
     "enable": true,
     "httpUserAgent": "",
@@ -14405,7 +14405,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "飞雪小说网                       fx273.com",
+    "bookSourceName": "飞雪小说网                                                                                                     fx273.com",
     "bookSourceUrl": "http://www.fx273.com",
     "enable": true,
     "httpUserAgent": "",
@@ -14614,7 +14614,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "顶点小说                       x23us.com",
+    "bookSourceName": "顶点小说                                                                                                     x23us.com",
     "bookSourceUrl": "https://www.x23us.com",
     "enable": true,
     "httpUserAgent": "",
@@ -14821,7 +14821,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "顶点小说                       23wxw.com",
+    "bookSourceName": "顶点小说                                                                                                     23wxw.com",
     "bookSourceUrl": "http://www.23wxw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -14851,7 +14851,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "悦读吧                       yued8.cn",
+    "bookSourceName": "悦读吧                                                                                                     yued8.cn",
     "bookSourceUrl": "http://www.yued8.cn",
     "enable": true,
     "httpUserAgent": "",
@@ -15102,7 +15102,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "小书屋                       xswu.org",
+    "bookSourceName": "小书屋                                                                                                     xswu.org",
     "bookSourceUrl": "https://www.xswu.org",
     "enable": true,
     "httpUserAgent": "",
@@ -15226,7 +15226,7 @@
   },
   {
     "bookSourceGroup": "普通; 发现",
-    "bookSourceName": "大书包小说                       dashubao.la",
+    "bookSourceName": "大书包小说                                                                                                     dashubao.la",
     "bookSourceUrl": "http://www.dashubao.la",
     "enable": true,
     "httpUserAgent": "",
@@ -15256,7 +15256,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "读书族                       dushuzu.com",
+    "bookSourceName": "读书族                                                                                                     dushuzu.com",
     "bookSourceUrl": "http://www.dushuzu.com",
     "enable": true,
     "httpUserAgent": "",
@@ -15315,7 +15315,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "八一中文                       zwdu.app",
+    "bookSourceName": "八一中文                                                                                                     zwdu.app",
     "bookSourceUrl": "https://www.zwdu.app",
     "enable": true,
     "httpUserAgent": "",
@@ -15464,7 +15464,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "博发小说网                       8boo.com",
+    "bookSourceName": "博发小说网                                                                                                     8boo.com",
     "bookSourceUrl": "http://www.8boo.com",
     "enable": true,
     "httpUserAgent": "",
@@ -16459,7 +16459,7 @@
   },
   {
     "bookSourceGroup": "普通; 失效",
-    "bookSourceName": "好看小说                       m.hkbook.cc",
+    "bookSourceName": "好看小说                                                                                                     m.hkbook.cc",
     "bookSourceUrl": "https://m.hkbook.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -16738,7 +16738,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "看毛线小说                       kanmaoxian.com",
+    "bookSourceName": "看毛线小说                                                                                                     kanmaoxian.com",
     "bookSourceUrl": "https://www.kanmaoxian.com",
     "enable": true,
     "httpUserAgent": "",
@@ -16797,7 +16797,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "18小说                       m.18xs.org",
+    "bookSourceName": "18小说                                                                                                     m.18xs.org",
     "bookSourceUrl": "https://m.18xs.org",
     "enable": true,
     "httpUserAgent": "",
@@ -16827,7 +16827,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "秋语阁                       qiuyuge.org",
+    "bookSourceName": "秋语阁                                                                                                     qiuyuge.org",
     "bookSourceUrl": "https://www.qiuyuge.org",
     "enable": true,
     "httpUserAgent": "",
@@ -16857,7 +16857,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "墨缘文学网                       wap.mywenxue.com",
+    "bookSourceName": "墨缘文学网                                                                                                     wap.mywenxue.com",
     "bookSourceUrl": "https://wap.mywenxue.com",
     "enable": true,
     "httpUserAgent": "",
@@ -16980,7 +16980,7 @@
   },
   {
     "bookSourceGroup": "优选; 发现",
-    "bookSourceName": "奇书网                       qsw.la",
+    "bookSourceName": "奇书网                                                                                                     qsw.la",
     "bookSourceUrl": "https://www.qsw.la",
     "enable": true,
     "httpUserAgent": "",
@@ -17127,7 +17127,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "第一版主                       11dzw.com",
+    "bookSourceName": "第一版主                                                                                                     11dzw.com",
     "bookSourceUrl": "http://www.11dzw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17186,7 +17186,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "爱下小说网                       aixiashu.com",
+    "bookSourceName": "爱下小说网                                                                                                     aixiashu.com",
     "bookSourceUrl": "http://www.aixiashu.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17245,7 +17245,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "大大中文                       dadazw.com",
+    "bookSourceName": "大大中文                                                                                                     dadazw.com",
     "bookSourceUrl": "http://www.dadazw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17332,7 +17332,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "妙笔阁                       m.miaobige.com.tw",
+    "bookSourceName": "妙笔阁                                                                                                     m.miaobige.com.tw",
     "bookSourceUrl": "https://m.miaobige.com.tw",
     "enable": true,
     "httpUserAgent": "",
@@ -17362,7 +17362,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "卡夜阁                       kayege.info",
+    "bookSourceName": "卡夜阁                                                                                                     kayege.info",
     "bookSourceUrl": "https://www.kayege.info",
     "enable": true,
     "httpUserAgent": "Mozilla/5.0 (Linux; Android 8.1.0; ONEPLUS A5000 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.144 Mobile Safari/537.36",
@@ -17391,7 +17391,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "元尊小说                       yuanzun888.com",
+    "bookSourceName": "元尊小说                                                                                                     yuanzun888.com",
     "bookSourceUrl": "http://www.yuanzun888.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17513,7 +17513,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "新八一中文网                       81new.com",
+    "bookSourceName": "新八一中文网                                                                                                     81new.com",
     "bookSourceUrl": "https://www.81new.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17543,7 +17543,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "免费全本小说                       yznnw.com",
+    "bookSourceName": "免费全本小说                                                                                                     yznnw.com",
     "bookSourceUrl": "http://www.yznnw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17573,7 +17573,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "笔下文学                       m.bixia.org",
+    "bookSourceName": "笔下文学                                                                                                     m.bixia.org",
     "bookSourceUrl": "https://m.bixia.org",
     "enable": true,
     "httpUserAgent": "",
@@ -17632,7 +17632,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "文昌书院                       wenchangshuyuan.com",
+    "bookSourceName": "文昌书院                                                                                                     wenchangshuyuan.com",
     "bookSourceUrl": "http://www.wenchangshuyuan.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17662,7 +17662,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "50331小说网                       50331.net",
+    "bookSourceName": "50331小说网                                                                                                     50331.net",
     "bookSourceUrl": "http://www.50331.net",
     "enable": true,
     "httpUserAgent": "",
@@ -17692,7 +17692,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "书快小说                       shukuai.com",
+    "bookSourceName": "书快小说                                                                                                     shukuai.com",
     "bookSourceUrl": "http://www.shukuai.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17752,7 +17752,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "书迷楼                       shumilou.net",
+    "bookSourceName": "书迷楼                                                                                                     shumilou.net",
     "bookSourceUrl": "https://www.shumilou.net",
     "enable": true,
     "httpUserAgent": "",
@@ -17810,7 +17810,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "灵域小说                       lingyutxt.com",
+    "bookSourceName": "灵域小说                                                                                                     lingyutxt.com",
     "bookSourceUrl": "https://www.lingyutxt.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17840,7 +17840,7 @@
   },
   {
     "bookSourceGroup": "优选",
-    "bookSourceName": "爱书吧                       aibookba.com",
+    "bookSourceName": "爱书吧                                                                                                     aibookba.com",
     "bookSourceUrl": "https://www.aibookba.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17900,7 +17900,7 @@
   },
   {
     "bookSourceGroup": "优选; 发现",
-    "bookSourceName": "夜色寒                       yuesehan.com",
+    "bookSourceName": "夜色寒                                                                                                     yuesehan.com",
     "bookSourceUrl": "https://www.yuesehan.com",
     "enable": true,
     "httpUserAgent": "",
@@ -17930,7 +17930,7 @@
   },
   {
     "bookSourceGroup": "优选; 发现",
-    "bookSourceName": "棉花糖小说                       mht.tw",
+    "bookSourceName": "棉花糖小说                                                                                                     mht.tw",
     "bookSourceUrl": "http://www.mht.tw",
     "enable": true,
     "httpUserAgent": "",
@@ -17960,7 +17960,7 @@
   },
   {
     "bookSourceGroup": "优选; 发现",
-    "bookSourceName": "一本读                       ybdu.me",
+    "bookSourceName": "一本读                                                                                                     ybdu.me",
     "bookSourceUrl": "http://www.ybdu.me",
     "enable": true,
     "httpUserAgent": "",
@@ -18081,7 +18081,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "爱尚小说网                       23xsw.cc",
+    "bookSourceName": "爱尚小说网                                                                                                     23xsw.cc",
     "bookSourceUrl": "https://www.23xsw.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -18464,7 +18464,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "书荒啦                       shuhuang.la",
+    "bookSourceName": "书荒啦                                                                                                     shuhuang.la",
     "bookSourceUrl": "https://shuhuang.la",
     "enable": true,
     "httpUserAgent": "",
@@ -18494,7 +18494,7 @@
   },
   {
     "bookSourceGroup": "普通; 失效",
-    "bookSourceName": "顶点小说                       x23us.la",
+    "bookSourceName": "顶点小说                                                                                                     x23us.la",
     "bookSourceUrl": "https://www.x23us.la",
     "enable": true,
     "httpUserAgent": "",
@@ -18524,7 +18524,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "聚书名网                       jsmw266.com",
+    "bookSourceName": "聚书名网                                                                                                     jsmw266.com",
     "bookSourceUrl": "http://www.jsmw266.com",
     "enable": true,
     "httpUserAgent": "",
@@ -18553,7 +18553,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "奇快中文网                       m.7kzw.com",
+    "bookSourceName": "奇快中文网                                                                                                     m.7kzw.com",
     "bookSourceUrl": "https://m.7kzw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -18611,7 +18611,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "书海阁                       shuhaige.com",
+    "bookSourceName": "书海阁                                                                                                     shuhaige.com",
     "bookSourceUrl": "https://www.shuhaige.com",
     "enable": true,
     "httpUserAgent": "",
@@ -18792,7 +18792,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "看小说去                       m.kxs7.com",
+    "bookSourceName": "看小说去                                                                                                     m.kxs7.com",
     "bookSourceUrl": "https://m.kxs7.com",
     "enable": true,
     "httpUserAgent": "",
@@ -18879,7 +18879,7 @@
   },
   {
     "bookSourceGroup": "普通; 发现",
-    "bookSourceName": "色小说                       yite.cc",
+    "bookSourceName": "色小说                                                                                                     yite.cc",
     "bookSourceUrl": "https://www.yite.cc",
     "enable": true,
     "httpUserAgent": "",
@@ -18937,7 +18937,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "东方小说                       lnwow.com",
+    "bookSourceName": "东方小说                                                                                                     lnwow.com",
     "bookSourceUrl": "http://www.lnwow.com",
     "enable": true,
     "httpUserAgent": "",
@@ -19055,7 +19055,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "妙笔阁                       imiaobige.com",
+    "bookSourceName": "妙笔阁                                                                                                     imiaobige.com",
     "bookSourceUrl": "https://www.imiaobige.com",
     "enable": true,
     "httpUserAgent": "",
@@ -19144,7 +19144,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "零点看书                       lingdiankanshu.co",
+    "bookSourceName": "零点看书                                                                                                     lingdiankanshu.co",
     "bookSourceUrl": "https://www.lingdiankanshu.co",
     "enable": true,
     "httpUserAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36",
@@ -19203,7 +19203,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "遮天小说网                       zhetian.org",
+    "bookSourceName": "遮天小说网                                                                                                     zhetian.org",
     "bookSourceUrl": "https://www.zhetian.org",
     "enable": true,
     "httpUserAgent": "",
@@ -19320,7 +19320,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "83中文网                       x83zw.com",
+    "bookSourceName": "83中文网                                                                                                     x83zw.com",
     "bookSourceUrl": "https://www.x83zw.com",
     "enable": true,
     "httpUserAgent": "",
@@ -19380,7 +19380,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "乐文小说                       lewen.la",
+    "bookSourceName": "乐文小说                                                                                                     lewen.la",
     "bookSourceUrl": "http://www.lewen.la",
     "enable": true,
     "httpUserAgent": "",
@@ -19440,7 +19440,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "幽冰中文网                       97ub.cc",
+    "bookSourceName": "幽冰中文网                                                                                                     97ub.cc",
     "bookSourceUrl": "https://www.97ub.cc",
     "enable": true,
     "httpUserAgent": "",
