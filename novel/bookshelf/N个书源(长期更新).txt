@@ -1,5 +1,5 @@
 [
-  {
+  { 
     "bookSourceGroup": "🔞",
     "bookSourceName": "龙腾小说网",
     "bookSourceUrl": "http://www.5rzw.com",
