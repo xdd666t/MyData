@@ -106,7 +106,7 @@
     "httpUserAgent": "",
     "lastUpdateTime": 0,
     "ruleBookAuthor": "class.alex@tag.p@texe#作者",
-    "ruleBookContent": "$function getImgList(){\n    var str = html.match(/murl_e = \\\"(.*?)\\\"/)[1];\n    var list = window.atob(str).split(\"#qingtiandy#\");\n    return list;\n}",
+    "ruleBookContent": "$function getImgList(){\n    var str = html.match(/murl_e = \\\"(.*?)\\\"/)[1];\n    var list = window.atob(str).split(\"qingtiandy#\");\n    return list;\n}",
     "ruleBookKind": "",
     "ruleBookLastChapter": "",
     "ruleBookName": "",
@@ -1443,7 +1443,7 @@
   },
   {
     "bookSourceGroup": "18禁",
-    "bookSourceName": "#龙腾小说网🔞~longteng32.com",
+    "bookSourceName": "龙腾小说网🔞                                                                                                                                                                 longteng32.com",
     "bookSourceUrl": "http://www.longteng32.com",
     "enable": true,
     "httpUserAgent": "",
@@ -2054,7 +2054,7 @@
   },
   {
     "bookSourceGroup": "普通",
-    "bookSourceName": "#经典小说网~jdxs5200.net",
+    "bookSourceName": "经典小说网                                                                                                                                                                 jdxs5200.net",
     "bookSourceUrl": "http://www.jdxs5200.net",
     "enable": true,
     "httpUserAgent": "",
