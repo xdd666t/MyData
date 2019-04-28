@@ -4455,7 +4455,7 @@
   },
   {
     "bookSourceGroup": "优",
-    "bookSourceName": "多本小说网(꧁落༺寞༒尘༻世꧂)",
+    "bookSourceName": "多本小说网",
     "bookSourceUrl": "http://www.duoben.net",
     "enable": true,
     "httpUserAgent": "",
