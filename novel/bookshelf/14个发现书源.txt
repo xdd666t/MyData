@@ -8,7 +8,7 @@
     "httpUserAgent": "",
     "ruleBookAuthor": "",
     "ruleBookContent": "class.l@text",
-    "ruleBookName": "",
+    "ruleBookName": "", 
     "ruleChapterList": "class.chapter",
     "ruleChapterName": "tag.a@text",
     "ruleChapterUrl": "",
