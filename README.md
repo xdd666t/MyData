@@ -5,4 +5,4 @@
 
 <img src="https://github.com/CNAD666/YTAOLibrary/blob/master/README/picture/showToast.png" width = "265" height = "471" div align=left />
 
-- pic文件夹，作为图床存放图片，便于生成外链访问，便于Markdown文件创作
+> - pic文件夹，作为图床存放图片，便于生成外链访问，便于Markdown文件创作
