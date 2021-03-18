@@ -33,6 +33,7 @@
 
 ## 问题
 - 关于CSD加速超50兆限制问题：https://ysnsn.cn/GitHub-jsdelivr.html
+- 坑点：https://zhaouncle.com/jsdelivr%E5%B0%8F%E5%9D%91%E7%B3%BB%E5%88%97/
 > 坑：这里必须你是还没满 50M 的时候先创建的 master，否则等满了之后再创建就无效了
 >
 > 所以我这里也是踩到坑了，重新创建了一个新的 repo 创建了 master 的 release
