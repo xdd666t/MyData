@@ -21,11 +21,11 @@
 > 备用链接可能需要VPN才能访问
 
 - 阅读3.0书源（备用）
-  - N个书源：https://raw.githubusercontent.com/CNAD666/MyData/novel/read3.0/N_booksource.json
-  - 优质书源：https://raw.githubusercontent.com/CNAD666/MyData/novel/read3.0/nice_booksource.json
+  - N个书源：https://raw.githubusercontent.com/CNAD666/MyData/master/novel/read3.0/N_booksource.json
+  - 优质书源：https://raw.githubusercontent.com/CNAD666/MyData/master/novel/read3.0/nice_booksource.json
 - 阅读2.0书源（备用）
-  - N个书源：https://raw.githubusercontent.com/CNAD666/MyData/novel/bookshelf/N个书源(长期更新).txt
-  - N个优质源：https://raw.githubusercontent.com/CNAD666/MyData/novel/bookshelf/N个优质书源.txt
+  - N个书源：https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个书源(长期更新).txt
+  - N个优质源：https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个优质书源.txt
 
 ## pic
 
