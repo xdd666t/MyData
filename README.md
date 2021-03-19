@@ -13,7 +13,7 @@
 
 - 阅读3.0书源
   - N个书源：https://cdn.jsdelivr.net/gh/CNAD666/MyData@release/novel/read3.0/N_booksource.json
-  - 优质书源：https://cdn.jsdelivr.net/gh/CNAD666/MyData@release/novel/read3.0/N_booksource.json
+  - 优质书源：https://cdn.jsdelivr.net/gh/CNAD666/MyData@release/novel/read3.0/nice_booksource.json
 - 阅读2.0书源
   - N个书源：https://cdn.jsdelivr.net/gh/CNAD666/MyData@release/novel/bookshelf/N个书源(长期更新).txt
   - N个优质源：https://cdn.jsdelivr.net/gh/CNAD666/MyData@release/novel/bookshelf/N个优质书源.txt
