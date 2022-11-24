@@ -13,7 +13,7 @@
 
 - 阅读3.0书源
   - N个书源：https://raw.githubusercontent.com/xdd666t/MyData/master/novel/read3.0/N_booksource.json
-  - 优质书源：https://cdn.jsdelivr.net/gh/CNAD666/MyData@release/novel/read3.0/nice_booksource.json
+  - 优质书源：https://raw.githubusercontent.com/xdd666t/MyData/master/novel/read3.0/nice_booksource.json
 
 ## pic
 
