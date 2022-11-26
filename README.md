@@ -9,7 +9,7 @@
 
 **导入地址**
 
-> cdn加速，导入时不会被墙
+> 可能需要挂代理才能访问
 
 - 阅读3.0书源
   - N个书源：https://raw.githubusercontent.com/xdd666t/MyData/master/novel/read3.0/N_booksource.json
